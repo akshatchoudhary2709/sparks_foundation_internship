@@ -1,0 +1,73 @@
+header{
+    
+    background-image: url("https://i2.wp.com/mylibrarycardworeout.com/wp-content/uploads/2018/12/rawpixel-1053186-unsplash.jpg?resize=1170%2C500&ssl=1");
+    background-repeat: no-repeat;
+    margin-left: 15%;
+    
+    padding: 10%;
+    text-align: center;
+    
+}
+
+nav a{
+    box-sizing: border-box;
+    padding: 10px 5% ;
+    font-size: 200%;
+    background-color: ghostwhite;
+    border-radius: 5%;
+    margin: 10px;
+    opacity: 0.7;
+    text-decoration: none;
+    color: red;
+}
+
+.main{
+    background-color:aqua;
+}
+
+
+nav a:hover{
+    opacity: 1
+}
+
+h1{
+    padding-bottom: 3%;
+    color: royalblue;
+    font-size: 200%;
+}
+
+h3{
+    text-align: center;
+    color: darkred;
+    font-size: 150%;
+}
+
+p{
+    font-size: 150%;
+}
+
+.left{
+    background-color: cornflowerblue;
+    width: 25%;
+    float: left;
+    display: block;
+    
+    
+}
+
+.left img{
+    padding: 5%;
+    width: 80%;
+    margin: 2%;
+}
+
+.right{
+    display: inline-block;
+    width: 70%;
+    padding: 2%;
+}
+
+
+
+
+
